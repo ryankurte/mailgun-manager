@@ -1,0 +1,28 @@
+{
+  "name": "mailgun-manager",
+  "version": "0.0.1",
+  "description": "Mailgun subscription manager",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryankurte/mailgun-manager.git"
+  },
+  "keywords": [
+    "mailgun",
+    "subscribe",
+    "manager"
+  ],
+  "author": "Ryan Kurte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryankurte/mailgun-manager/issues"
+  },
+  "homepage": "https://github.com/ryankurte/mailgun-manager#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "mailgun-js": "^0.7.7"
+  }
+}
