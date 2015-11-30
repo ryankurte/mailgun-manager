@@ -1,0 +1,13 @@
+Hi {{{address}}},
+
+Thanks for signing up to the {{{listName}}} mailing list.
+
+To confirm your subscription, please click the following link:
+{{{confirmUrl}}}
+
+To cancel, or unsubscribe at any point, click the following link:
+{{{unsubUrl}}}
+
+Cheers,
+
+{{{orgName}}}
