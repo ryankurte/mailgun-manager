@@ -22,9 +22,12 @@
   },
   "homepage": "https://github.com/ryankurte/mailgun-manager#readme",
   "dependencies": {
+    "bluebird": "^3.0.5",
     "body-parser": "^1.14.1",
     "express": "^4.13.3",
     "mailgun-js": "^0.7.7",
+    "mustache": "^2.2.0",
+    "uuid": "^2.0.1",
     "validator": "^4.3.0",
     "winston": "^2.1.1"
   }
